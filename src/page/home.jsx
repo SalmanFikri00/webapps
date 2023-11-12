@@ -1,5 +1,5 @@
 import React from 'react'
-import com1 from '/com1.svg'
+import com1 from '/computer1.svg'
 import Comp from '../components/comp'
 import Comp2 from '../components/comp2'
 import LandingSection from '../components/landingsection'
