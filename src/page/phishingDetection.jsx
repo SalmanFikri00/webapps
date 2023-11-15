@@ -147,7 +147,6 @@ const cekLink2 = async() => {
         <div className=' h-[40vh] p-28 w-full'>
           <h1 className=' text-[4em]'>Hasil:</h1>
           <p className=' text-[2em] p-10'>
-          {/* Berdasarkan analisis yang telah dilakukan, dapat diidentifikasi beberapa informasi penting terkait URL yang telah disurvei, yaitu "https://bit.ly/3Bspxxx". Hasil analisis ini memberikan gambaran bahwa tautan tersebut terdeteksi sebagai tautan berbahaya atau bersifat phishing oleh berbagai mesin antivirus. Disarankan untuk tidak membuka link tersebut karena berakibat fatal. */}
           {output}
           </p>
         </div>
